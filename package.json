@@ -36,7 +36,6 @@
         "emoji-unicode": "^2.0.1",
         "eval": "^0.1.8",
         "extract-zip": "^2.0.1",
-        "fast-speedtest-api": "^0.3.2",
         "figlet": "^1.5.2",
         "fluent-ffmpeg": "^2.1.2",
         "fs": "0.0.1-security",
@@ -73,10 +72,6 @@
         "tinyurl": "^1.1.7",
         "totp-generator": "0.0.13",
         "websocket-stream": "^5.5.2",
-        "ws": "^8.5.0",
-        "youtube-search-api": "^1.1.0",
-        "youtube-search-without-api-key": "^1.0.7",
-        "yt-search": "^2.10.3",
-        "ytdl-core": "^4.11.0"
+        "ws": "^8.5.0"
     }
 }
